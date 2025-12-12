@@ -38,11 +38,6 @@ student-management/
 ├── vite.config.js # Vite configuration
 └── README.md # This documentation
 
-text
-
-Copy
-
-Download
 
 ## Installation and Setup
 
@@ -50,20 +45,8 @@ Download
 git clone https://github.com/rayasesan/student-management.git
 cd student-management
 
-text
-
-Copy
-
-Download
-
 ### 2. Install Dependencies
 npm install
-
-text
-
-Copy
-
-Download
 
 ### 3. Environment Configuration
 Create .env.local file in root directory:
@@ -75,20 +58,10 @@ VITE_FIREBASE_STORAGE_BUCKET=your_project.appspot.com
 VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
 VITE_FIREBASE_APP_ID=your_app_id
 
-text
-
-Copy
-
-Download
 
 ### 4. Run Development Server
 npm run dev
 
-text
-
-Copy
-
-Download
 Open browser at http://localhost:5173
 
 ## Firebase Setup
