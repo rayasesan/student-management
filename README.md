@@ -21,23 +21,24 @@ A web-based Student Management System with full CRUD (Create, Read, Update, Dele
 - Version Control: Git and GitHub
 
 ## Live Demo
-https://student-management.vercel.app
+https://student-management-alpha-three.vercel.app/
 
 ## Project Structure
 
+```
 student-management/
 ├── src/
-│ ├── App.jsx # Main application component
-│ ├── firebase.js # Firebase configuration
-│ ├── index.css # Custom CSS styles
-│ └── main.jsx # React entry point
+│   ├── App.jsx
+│   ├── firebase.js
+│   ├── index.css
+│   └── main.jsx
 ├── public/
-│ └── vite.svg # Vite logo
-├── index.html # Main HTML with Tailwind CDN
-├── package.json # Dependencies list
-├── vite.config.js # Vite configuration
-└── README.md # This documentation
-
+│   └── vite.svg
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
 
 ## Installation and Setup
 
