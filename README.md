@@ -6,7 +6,7 @@ A web-based Student Management System with full CRUD (Create, Read, Update, Dele
 
 ## Features
 - Create: Add new students with validation
-- Read: View all students in responsive tablee
+- Read: View all students in responsive table
 - Update: Edit student information
 - Delete: Remove students with confirmation
 - Real-time: Automatic data sync with Firebase
